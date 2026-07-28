@@ -1,6 +1,5 @@
 .idea/
 .python-version
-main.py 
 pyproject.toml
 test.py 
 uv.lock
