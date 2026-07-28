@@ -1,6 +1,5 @@
 import random
 
-
 # Basic character sets
 low = "abcdefghijklmnopqrstuvwxyz"
 up = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"

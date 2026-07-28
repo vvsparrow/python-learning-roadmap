@@ -1,5 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Tools
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# IDEs 
 .idea/
+.vscode/
+
+# Project specific
 .python-version
-pyproject.toml
 test.py 
-uv.lock
+
+# Vim/Neovim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-z]
+*.un~
+Session.vim
+.netrwhist
