@@ -14,8 +14,9 @@ dev = [
 ]
 
 [tool.ruff]
+preview = true
 line-length = 88
-lint.select = ["E", "F", "W", "I"]
+lint.select = ["E", "F", "W", "I", "E303"]
 lint.ignore = ["E501"]
 extend-include = ["*.md"]
 
