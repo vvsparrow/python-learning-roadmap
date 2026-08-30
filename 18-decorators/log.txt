@@ -1,0 +1,6 @@
+Function summation called with args: (12, 36), kwargs: {}
+Function summation called with args: (12, 36), kwargs: {}
+Function summation called with args: (12, 36), kwargs: {}
+Function summation called with args: (12, 36), kwargs: {}
+Function summation called with args: (12, 36), kwargs: {}
+Function summation called with args: (12, 36), kwargs: {}
