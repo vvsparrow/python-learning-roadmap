@@ -5,11 +5,14 @@
 # 2. NameError: name ‘n‘ is not defined
 # 3. TypeError: not all arguments converted during string formatting
 # 4. IndentationError: unexpected indent
-# Исправьте ошибку, если потребуется. 
+# Исправьте ошибку, если потребуется.
+
 
 def is_even(n):
     if n % 2 == 0:
         print(n, "is even")
     else:
         print(n, "is odd")
-is_even('4')
+
+
+is_even("4")

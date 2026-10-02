@@ -1,5 +1,6 @@
 # задача: дано число n, найти его сумму чисел
 
+
 def sum_of_digits(n):
     s = str(n)
     print(s)

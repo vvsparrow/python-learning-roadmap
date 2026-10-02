@@ -8,4 +8,3 @@ with open("input.txt", "r") as f:
             marks[name]["Возраст"] = age
             marks[name]["Оценка"] = mark
 print(marks)
-

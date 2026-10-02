@@ -7,4 +7,5 @@
 def palindrome(n):
     return str(n) == str(n)[::-1]
 
+
 print(palindrome(123456789876554321))
